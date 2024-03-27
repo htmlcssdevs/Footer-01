@@ -755,6 +755,11 @@ body{
   padding-bottom: 1rem;
 }
 
+.px-7{
+  padding-left: 1.75rem;
+  padding-right: 1.75rem;
+}
+
 .pe-16{
   padding-inline-end: 4rem;
 }
